@@ -23,4 +23,4 @@ You can view all of my projects on my GitHub profile:
 
 ### Connect with Me
 
-* **Email:** <a href="mailto:dreamsfromdust01@gmail.com">dreamsfromdust01@gmail.com</a>
+* **Email:** dreamsfromdust01@gmail.com
