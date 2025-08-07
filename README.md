@@ -9,7 +9,7 @@ Here are some of the projects I've built.
 * **Netflix Clone**: A front-end project to practice HTML and CSS layout by replicating a popular brand's landing page.
 * **UltraEdit Clone**: A landing page clone to showcase HTML and CSS skills.
 * **Faulty Calculator**: A calculator project that demonstrates core JavaScript principles, including conditional logic and DOM manipulation.
-* **Leader.com**: An imaginary women empowerment page built with HTML and CSS.
+* **Leaders.com**: An imaginary women empowerment page built with HTML and CSS.
 
 You can view all of my projects on my GitHub profile:
 <br>
