@@ -4,7 +4,7 @@ Welcome to the digital portfolio of **Dreams from Dust**. I'm a web development 
 
 ### My Projects
 
-Here are some of the projects I've built.
+Here are some of the projects I've built:
 * **Nature Cards**: A project demonstrating responsive CSS card layouts.
 * **Netflix Clone**: A front-end project to practice HTML and CSS layout by replicating a popular brand's landing page.
 * **UltraEdit Clone**: A landing page clone to showcase HTML and CSS skills.
