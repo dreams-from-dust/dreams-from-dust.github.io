@@ -6,7 +6,7 @@ Welcome to **Dreams from Dust**. I'm a web development learner showcasing my pro
 
 You can view my code work live page, which links to all of my project repositories, here:
 
-My Work Showcase](https://dreams-from-dust.github.io)
+[My Work Showcase](https://dreams-from-dust.github.io)
 
 ### Connect with Me
 
